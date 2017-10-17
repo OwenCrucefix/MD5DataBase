@@ -9,5 +9,5 @@ The combinations are stored in a file and the hashes are stored in a seperate fi
 Generates all 3 character ascii combinations
 
 ### Upcoming Features
-⋅⋅* 1 and 2 character combinations.
-⋅⋅* 4+ character combinations.
+* 1 and 2 character combinations.
+* 4+ character combinations.
