@@ -1,4 +1,4 @@
-# MD5 Datebase
+# MD5 Database
 
 ### What is this?
 This is a project I randomly started that uses Python to generate all the combinations ascii characters and converting them into md5 to create a database of md5 hashes (A rainbow table of sorts)
